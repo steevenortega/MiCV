@@ -1,0 +1,116 @@
+.body-welcome {
+    display: flex;
+    background-color: black;
+   
+}
+
+.image-profile {
+    border-radius: 150px;
+    width: 300px;
+    height: 300px;
+    margin-left: 10%;
+    padding: 10px;
+}
+
+.info-personal {
+    display: block;
+    
+
+}
+
+.image-profile-impar {
+    border-radius: 25px;
+    width: 35px;
+    height: 35px;
+   
+    margin: 0%;
+    border: 0%;
+    padding: 0%;
+   
+
+
+}
+
+.text-profile-impar {
+    color: aquamarine;   
+    font-family: Comic;
+    font-size: 22px;
+   
+   
+}
+
+.text-profile-par {
+    color: purple;
+    font-family: Comic;
+    font-size: 22px;}
+
+.nombre {
+    color: whitesmoke;
+    font-family: Comic;
+    text-align: center;
+    font-size: 45px;
+    margin: 1px;
+    padding: 1px;
+}
+
+.perfil {
+    color: greenyellow;
+    font-family: Comic;
+    font-size: 27px;
+    margin-left: 3%;
+
+}
+
+.perfil-profesional {
+    font-size: .9375em;
+    line-height: 1.3;
+    word-break: break-word;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.info-personal-correo {
+    display: flex;
+    width: 300px;
+    height: 50px;
+    margin: 0%;
+    border: 0%;
+    padding: 0%;
+
+}
+
+.otra-informacion {
+    color: yellow;   
+    font-family: Comic;
+    font-size: 25px;
+}
+.nombre-sobremi{
+    color: whitesmoke;
+    font-family: Comic;
+    font-size: 30px;
+    text-align: justify;
+    margin: 1px;
+    padding: 1px;
+}
+.titulo3{
+    color: orange;
+    font-family: Comic;
+    font-size: 30px;
+}
+.mayorQue{
+    color: white;
+    font-family: Comic;
+    font-size: 25px;
+}
+.navegador{
+    margin: 1%;
+    border: 1%;
+    padding: 1%;
+}
+.principal{
+    margin: 1%;
+    border: 1%;
+    padding: 1%;
+}
